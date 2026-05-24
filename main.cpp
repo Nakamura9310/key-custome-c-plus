@@ -5,6 +5,8 @@
 #define _UNICODE
 #endif
 
+#define NOMINMAX
+
 #include <windows.h>
 #include <shellapi.h>
 #include <algorithm>
